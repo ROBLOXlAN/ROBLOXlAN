@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+<br>
+    wip
+<br>
+<br>
+    
+  <a href="https://dynablocks.atabook.org">atabook</a> 
+  <a href="https://pronouns.cc/@dynablocks/♠%EF%B8%8F">prns.cc</a>  
+<br>
+    
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aohitsugi&label=　　✦　　&color=blueviolet&style=plastic&abbreviated=true"/> </p>
+</div>
 
-<!--
-**ROBLOXlAN/ROBLOXlAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
